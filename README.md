@@ -1,6 +1,5 @@
 # VAE-GAN Hybrid Model
 
-# Autoencoding Beyond Pixels Using a Learned Similarity Metric
 
 This repository implements a **VAE/GAN hybrid model** based on the paper:  
 **"Autoencoding Beyond Pixels Using a Learned Similarity Metric"**  
