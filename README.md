@@ -1,4 +1,4 @@
-# vae-gan-learned-similarity
+# VAE-GAN Hybrid Model
 
 # Autoencoding Beyond Pixels Using a Learned Similarity Metric
 
